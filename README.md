@@ -1,4 +1,4 @@
-# python-template
+# python-template-branch-2
 This is a template for Python projects.
 
 Simply add your Python script(s), modules, tests etc. and you're all good!
